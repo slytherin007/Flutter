@@ -26,7 +26,3 @@ Contains the code for a simple Flutter column layout, arranging widgets vertical
 1. Clone this repository or copy the content of `main.dart` into your Flutter project.
 2. Open the file using a Flutter-supported code editor.
 3. Run the application on an emulator or connected device to view the basic column in action.
-
-## Directory Structure
-
-
