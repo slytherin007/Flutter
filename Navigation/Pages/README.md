@@ -1,12 +1,12 @@
-# Flutter Drawer with Pages Example
+# Flutter Navigation with Pages Example
 
-This Flutter project features a responsive drawer, offering an intuitive navigation experience with associated pages for enhanced user interaction.
+This Flutter project offers an intuitive navigation experience with associated pages for enhanced user interaction.
 
 ## Overview
 
 The repository includes the following Dart files:
 
-- **main.dart:** Demonstrates the implementation of a responsive drawer.
+- **main.dart:** Demonstrates the implementation of navigation.
 - **pages/:** Folder containing individual Dart files for associated pages in the app.
 
 ## Prerequisites
@@ -20,7 +20,7 @@ Ensure you have the following installed:
 
 ### main.dart
 
-Contains the code for the responsive drawer, optimizing navigation within your Flutter application.
+Contains the code for the navigation, optimizing navigation within your Flutter application.
 
 ### pages/
 
